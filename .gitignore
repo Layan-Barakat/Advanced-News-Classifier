@@ -1,0 +1,18 @@
+# Build outputs
+target/
+
+# IDE stuff
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
